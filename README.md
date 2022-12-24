@@ -1,4 +1,4 @@
-K Nearest neighbors
+# K Nearest neighbors
 
 - The KNN is a non parametric ML algorithm which can be used in both regression and classification. In this case we are using it to classify(Iris and Digits) classes.
 - Implementation -
